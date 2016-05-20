@@ -180,7 +180,7 @@ var data:Array<Content> = [
     displayAnswer: 'ま,み,む,め,も',
     type: 'text',
     position : 12,
-    imageUrl : 'http://images.gamme.com.tw/news2/2012/38/95/p5_ao52XmKKXpw.jpg',
+    imageUrl : 'http://photos2.meetupstatic.com/photos/event/7/9/c/d/event_50671181.jpeg',
     youtubeVideoId : ''
   },
   {
