@@ -16,12 +16,7 @@ import {GameService, SoundService} from './services';
         &nbsp;
       </div>
       <div class="col-md-7">
-
-
-        </div>
-
       </div>
-
     </div>
 
     <div class="row content-content">
