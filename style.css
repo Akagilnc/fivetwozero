@@ -1,12 +1,12 @@
 p {
   color: #122b40;
   font-size: large;
-  font-family: "Microsoft YaHei";
+  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;
 }
 li {
   color :#122b40;
   font-size: medium;
-  font-family: "Helvetica";
+  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;;
 }
 
 .center{
@@ -47,7 +47,7 @@ li {
   margin-bottom: 2em;
   font-size:1.2em;
   line-height: 120%;
-  font-family: "Microsoft YaHei";
+  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;;
   font-weight: bold;
 }
 
