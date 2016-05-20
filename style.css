@@ -15,7 +15,7 @@ li {
 }
 
 .app-container {
-  background-color: gainsboro;
+  background-color: #DDDDDD;
   background-size: 100% 100%;
   background-origin: border-box;
   min-height: 100%;
@@ -33,124 +33,23 @@ li {
   color: white;
 }
 
-
-.question-name {
-  font-size: 1.5em;
-  font-weight: bold;
-  color: white;
+.content-head {
+  margin-bottom: 2em;
+  font-size:1.5em;
+  line-height: 150%;
 }
 
-.question-header {
-  margin-bottom: 0.5em;
-  color: white;
+.content-name {
+
 }
 
 .content-content {
   margin-bottom: 2em;
   font-size:1.5em;
   line-height: 150%;
+  font-family: "Microsoft YaHei";
 }
 
-.answer-title {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: white;
-  }
-
-  .answer-placeholder {
-    width: 120px;
-    display: inline-block;
-    border-bottom: 2px solid black;
-    height: 24px;
-    color: white;
-  }
-
-  .answer-row {
-    margin-bottom: 1em;
-    color: white;
-  }
-
-  .keyboard {
-    text-align: center;
-    color: white;
-  }
-
-  .keyboard .key{
-    border: 2px solid;
-    border-radius: 5px;
-    border-color: white;
-    font-size: 1em;
-    margin-left: 5px;
-    padding: 10px;
-    text-align: center;
-    cursor: pointer;
-    display: inline-block;
-    width: 39px;
-    color: white;
-    font-weight: bold;
-  }
-
-  .keyboard .key:hover{
-    border: 2px;
-    font-size: 1em;
-    background-color: white;
-    border-color: white;
-    color: dodgerblue;
-    font-weight: bold;
-  }
-
-  .keyboard-line {
-    margin-bottom: 10px;
-  }
-
-  .keyboard-row {
-    margin-bottom: 2em;
-  }
-
-   .question-name {
-    font-size: 1.5em;
-    font-weight: bold;
-  }
-
-  .question-header {
-    margin-bottom: 0.5em;
-  }
-
-  .question-content {
-    margin-bottom: 2em;
-  }
-
-  .answer-hole {
-    width: 30px;
-    padding-bottom: 2px;
-    display:block;
-    font-size: 2em;
-    float:left;
-  }
-
-  .modal {
-    overflow-x: hidden;
-    overflow-y: auto !important;
-  }
-
-
-  .user-score {
-    color: white;
-    font-size: 1.5em;
-  }
-
-.chart-link {
-  font-size: medium;
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-.chart-link:hover {
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-  cursor: pointer;
-}
 
 .thankyou {
   color: white;

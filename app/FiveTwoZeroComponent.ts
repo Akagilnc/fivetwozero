@@ -17,8 +17,6 @@ import {GameService, SoundService} from './services';
       </div>
       <div class="col-md-7">
 
-        <div class="navigation-buttons pull-right">
-
 
         </div>
 
@@ -29,7 +27,7 @@ import {GameService, SoundService} from './services';
     <div class="row content-content">
       <div class="col-md-12" style="height: 15%">
         <a *ngIf="content.audioUrl" class="btn btn-default btn-sm" (click)='play()'><i class="fa fa-play"></i></a>
-        <div class="content-text">
+        <div>
           <span>{{ content.content }}</span>
 
           <span style="font-style: italic" *ngIf="content.contentNode">/ {{content.contentNode}}</span>
