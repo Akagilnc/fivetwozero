@@ -47,10 +47,13 @@ li {
   margin-bottom: 2em;
   font-size:1.2em;
   line-height: 120%;
-  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;;
+  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;
   font-weight: bold;
 }
 
+body {
+  font-family: Tahoma, "Microsoft YaHei", Helvetica, STXihei, sans-serif;
+}
 
 .thankyou {
   color: white;
